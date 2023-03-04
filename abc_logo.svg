@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="50.000004mm"
+   height="48.000004mm"
+   viewBox="0 0 50.000004 48.000004"
+   version="1.1"
+   id="svg5"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <g
+     id="layer1">
+    <path
+       style="fill:#004283;fill-opacity:1;stroke-width:0.264583"
+       id="path3791"
+       d="m 84.043372,49.544666 -14.541625,8.395611 -14.541624,-8.395611 0,-16.791221 14.541624,-8.395611 14.541625,8.395611 z"
+       transform="matrix(1.7192027,0,0,1.4293183,-94.48759,-34.815097)" />
+    <path
+       id="path269"
+       style="fill:#659bd3;stroke-width:0.264583"
+       transform="matrix(0.77488689,0,0,0.64422887,-3.5958253,-4.9175632)"
+       d="M 36.903225,44.887096 4.6404518,63.514017 4.640452,26.260176 36.903225,7.633255 69.165998,26.260176 Z" />
+    <path
+       id="path271"
+       style="fill:#004283;stroke-width:0.548134"
+       d="M 25.000002,48.000001 0,36 25,24 50,36 h 6e-6 z" />
+    <path
+       id="path2068"
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+       d="M 25.000118,10 A 15,15 0 0 0 10,25.000118 15,15 0 0 0 25.000118,39.999719 15,15 0 0 0 39.999719,25.000118 15,15 0 0 0 25.000118,10 Z m 0,4.999695 a 10,10 0 0 1 9.999906,10.000423 10,10 0 0 1 -9.999906,9.999906 10,10 0 0 1 -10.000423,-9.999906 10,10 0 0 1 10.000423,-10.000423 z" />
+    <path
+       id="path1479"
+       style="fill:#00599d;fill-opacity:1;stroke-width:0.565389"
+       d="M 49.999997,36 25,24 v 0 0 0 L 49.999997,12 Z" />
+    <text
+       xml:space="preserve"
+       style="font-size:13.2492px;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, ';fill:#004283;fill-opacity:1;stroke-width:0.177446"
+       x="17.817465"
+       y="28.982752"
+       id="text1215"
+       transform="scale(1.0351001,0.96609014)"><tspan
+         id="tspan1213"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.2492px;font-family:Unifont;-inkscape-font-specification:Unifont;fill:#ffffff;stroke-width:0.177446"
+         x="17.817465"
+         y="28.982752">AB</tspan></text>
+  </g>
+</svg>
